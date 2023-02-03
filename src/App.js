@@ -44,8 +44,3 @@ const apikey = process.env.REACT_APP_NEWS_API
 
   export default App
 
-//my key 726d2aee64634d978dd69f9fca79cb33
-
-// ad81f27994544041be2b115948681ec7
-
-// 2f7337ccdc4242c4925c31eeecfd6ee2
