@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+    {
+    "source": {
+    "id": null,
+    "name": "BBC News"
+    },
+    "author": "https://www.facebook.com/bbcnews",
+    "title": "Germany confirms it will provide Ukraine with Leopard 2 tanks - BBC",
+    "description": "Russia has downplayed the impact of the move, saying Western tanks will 'burn like all the rest' .",
+    "url": "https://www.bbc.com/news/world-europe-64391272",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8386/production/_128407633_92fe3c9ba834b41badf48b96f1fcc7d3980b0583-1.jpg",
+    "publishedAt": "2023-01-25T11:41:32Z",
+    "content": "After weeks of reluctance, Germany has agreed to send Leopard 2 tanks to Ukraine, in what Kyiv hopes will be a game-changer on the battlefield. Chancellor Olaf Scholz announced the decision to send … [+4355 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "BBC News"
+    },
+    "author": "https://www.facebook.com/bbcnews",
+    "title": "Amazon strikes: Workers claim robots are treated better - BBC",
+    "description": "As Amazon's first ever UK strike gets under way, staff in Coventry tell the BBC why they are walking out.",
+    "url": "https://www.bbc.com/news/business-64384287",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B3E1/production/_128394064_amazonworkers.jpg",
+    "publishedAt": "2023-01-25T00:00:42Z",
+    "content": "Amazon workers are staging the first ever UK strike against the online giant on Wednesday in a protest over pay. Members of the GMB union are walking out at Amazon's Coventry warehouse over what the… [+6571 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Intercept"
+    },
+    "author": "Murtaza Hussain, Ryan Grim",
+    "title": "Elon Musk Removes BBC Doc at Request of India PM Modi - The Intercept",
+    "description": "Officials from India’s ruling right-wing party said American tech companies like Twitter and YouTube complied with demands to remove the documentary.",
+    "url": "https://theintercept.com/2023/01/24/twitter-elon-musk-modi-india-bbc/",
+    "urlToImage": "https://theintercept.imgix.net/wp-uploads/sites/1/2023/01/GettyImages-1246273459-modi-BBC-elon.jpg?auto=compress%2Cformat&q=90&fit=crop&w=1200&h=800",
+    "publishedAt": "2023-01-24T23:51:00Z",
+    "content": "Twitter and YouTube censored a report critical of Indian Prime Minister Narendra Modi in coordination with the government of India. Officials called for the Big Tech companies to take action agains… [+7160 chars]"
+    }
+    ]
+    }

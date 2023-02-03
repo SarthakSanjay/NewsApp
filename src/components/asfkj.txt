@@ -1,0 +1,20 @@
+<Route exact path='/business'><News pageSize={5} category='business' country="in"/></Route>
+<Route exact path='/entertainment'><News pageSize={5} category='entertainment' country="in"/></Route>
+<Route exact path='/general'><News pageSize={5} category='general' country="in"/></Route>
+<Route exact path='/health'><News pageSize={5} category='health' country="in"/></Route>
+<Route exact path='/science'><News pageSize={5} category='science' country="in"/></Route>
+<Route exact path='/sports'><News pageSize={5} category='sports' country="in"/></Route>
+<Route exact path='/technology'><News pageSize={5} category='technology' country="in"/></Route>
+
+<Route exact path='/'><News pageSize={5} category='general' country="in"/></Route>
+
+ <News pageSize={5} category='general' country="in"/>
+
+
+ business
+entertainment
+general
+health
+science
+sports
+technology
